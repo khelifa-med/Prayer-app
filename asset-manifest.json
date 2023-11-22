@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Prayer-app/static/css/main.4ed64169.css",
+    "main.js": "/Prayer-app/static/js/main.e8b181eb.js",
+    "static/js/787.d412bc7e.chunk.js": "/Prayer-app/static/js/787.d412bc7e.chunk.js",
+    "static/media/dhhr.png": "/Prayer-app/static/media/dhhr.681ca1704284ac19edb9.png",
+    "static/media/Asr.png": "/Prayer-app/static/media/Asr.f3a1d16fb852ed897fbc.png",
+    "static/media/night.png": "/Prayer-app/static/media/night.f18d85b40ef36a8eb152.png",
+    "static/media/fajr.png": "/Prayer-app/static/media/fajr.d048439fdcd3fa0715c1.png",
+    "static/media/sunset.png": "/Prayer-app/static/media/sunset.8ee8e6175cfbe9936ab6.png",
+    "static/media/logo.svg": "/Prayer-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Prayer-app/index.html",
+    "main.4ed64169.css.map": "/Prayer-app/static/css/main.4ed64169.css.map",
+    "main.e8b181eb.js.map": "/Prayer-app/static/js/main.e8b181eb.js.map",
+    "787.d412bc7e.chunk.js.map": "/Prayer-app/static/js/787.d412bc7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed64169.css",
+    "static/js/main.e8b181eb.js"
+  ]
+}
